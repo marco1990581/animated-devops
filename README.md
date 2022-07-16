@@ -1,2 +1,2 @@
 # animated-devops
-A simple CI/CD Pipeline 
+A simple CI/CD Pipeline using an array of technologies to show you how to become a Devops Engineer
